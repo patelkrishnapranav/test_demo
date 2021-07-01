@@ -1,5 +1,4 @@
 Demo Test file.
 1. This is my first commit.
 2. This is my second commit.
-3. This is my third and fourth commit.
-1branch. This is first commit from branch.
+3. This is my third commit.
